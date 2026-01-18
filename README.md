@@ -23,3 +23,5 @@
 - [Чат в telegram по модульным станкам The fist tools \ Xendoll \ Unimat и другим](https://t.me/TheFirstToolRussia)
 - [Канал Игорь KLIV, много полезных доработок и примеров работ на станке](https://www.youtube.com/channel/UCZDuRbTqA5QuboGSG2y2jEQ)
 - [Канал Эрик Плотник, много полезных доработок и примеров работ на станке](https://www.youtube.com/user/1149G)
+- [Тема по станку на форуме судомоделистов](https://www.shipmodeling.ru/phpbb/viewtopic.php?t=72530)
+- [Тема по станку на форуме Чипмейкер](https://www.chipmaker.ru/topic/144908/)
