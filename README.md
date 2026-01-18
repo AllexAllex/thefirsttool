@@ -17,5 +17,11 @@
 ## 4. Информация <a name="раздел_информация"></a>
 
 ## 5. Ссылки <a name="раздел_ссылки"></a>
-**5.1 [Канал Игорь KLIV](https://www.youtube.com/channel/UCZDuRbTqA5QuboGSG2y2jEQ)**
-**5.2 [Канал Эрик Плотник](https://www.youtube.com/user/1149G)**
+5.1 [Наш канал в telegram](https://t.me/MiniLatheRussia)
+
+5.2 [Чат в telegram по модульным станкам The fist tools \ Xendoll \ Unimat и другим](https://t.me/TheFirstToolRussia)
+
+5.1 [Канал Игорь KLIV, много полезных доработок и примеров работ на станке](https://www.youtube.com/channel/UCZDuRbTqA5QuboGSG2y2jEQ)
+
+5.2 [Канал Эрик Плотник, много полезных доработок и примеров работ на станке](https://www.youtube.com/user/1149G)
+
