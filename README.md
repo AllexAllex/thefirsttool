@@ -8,7 +8,7 @@
 5. [Ссылки](#раздел_ссылки)
    
 ## 1. Доработки <a name="раздел_основное"></a>
-- [Доработки каретки](https://github.com/AllexAllex/thefirsttool/edit/main/README.md)
+- [Доработки каретки](https://github.com/AllexAllex/thefirsttool/blob/main/modification/modification.md)
 
 ## 2. Настройка станка <a name="раздел_настройка"></a>
 
@@ -17,7 +17,7 @@
 ## 4. Информация <a name="раздел_информация"></a>
 - [Чертежи частей станка](https://github.com/AllexAllex/thefirsttool/blob/main/info/drawings.md)
 - [Каталог со всеми вариантами станков](https://github.com/AllexAllex/thefirsttool/blob/main/info/catalog.md)
-
+- [Каталог частей станков](https://github.com/AllexAllex/thefirsttool/blob/main/info/catalog-parts.md)
 
 ## 5. Ссылки <a name="раздел_ссылки"></a>
 - [Наш канал в telegram](https://t.me/MiniLatheRussia)
