@@ -111,3 +111,8 @@
 - B001 Дуга от лобзика
 - D001 Адаптер М12х1 на конус В10, для сверлильного патрона
 - F001 Ключ для затяжки гайки цангового патрона
+
+## Изображения некоторых деталей из каталога
+![каталог деталей 1](https://github.com/AllexAllex/thefirsttool/blob/main/info/catalog-parts/1.png)
+![каталог деталей 2](https://github.com/AllexAllex/thefirsttool/blob/main/info/catalog-parts/2.png)
+
