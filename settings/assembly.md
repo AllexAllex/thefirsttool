@@ -1,3 +1,16 @@
-Варианты сборки разных станков
+## Варианты сборки разных станков
 
 ![Вариант 1](https://github.com/AllexAllex/thefirsttool/blob/main/settings/assembly/1.webp)
+![Вариант 2](https://github.com/AllexAllex/thefirsttool/blob/main/settings/assembly/2.webp)
+![Вариант 3](https://github.com/AllexAllex/thefirsttool/blob/main/settings/assembly/3.webp)
+![Вариант 4](https://github.com/AllexAllex/thefirsttool/blob/main/settings/assembly/4.webp)
+![Вариант 5](https://github.com/AllexAllex/thefirsttool/blob/main/settings/assembly/5.webp)
+![Вариант 6](https://github.com/AllexAllex/thefirsttool/blob/main/settings/assembly/6.webp)
+![Вариант 7](https://github.com/AllexAllex/thefirsttool/blob/main/settings/assembly/7.webp)
+![Вариант 8](https://github.com/AllexAllex/thefirsttool/blob/main/settings/assembly/8.webp)
+![Вариант 9](https://github.com/AllexAllex/thefirsttool/blob/main/settings/assembly/9.webp)
+![Вариант 10](https://github.com/AllexAllex/thefirsttool/blob/main/settings/assembly/10.webp)
+![Вариант 11](https://github.com/AllexAllex/thefirsttool/blob/main/settings/assembly/11.webp)
+![Вариант 12](https://github.com/AllexAllex/thefirsttool/blob/main/settings/assembly/12.webp)
+![Вариант 13](https://github.com/AllexAllex/thefirsttool/blob/main/settings/assembly/14.webp)
+![Вариант 15](https://github.com/AllexAllex/thefirsttool/blob/main/settings/assembly/15.webp)
