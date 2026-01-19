@@ -11,6 +11,7 @@
 - [Доработки каретки](https://github.com/AllexAllex/thefirsttool/blob/main/modification/modification.md)
 
 ## 2. Настройка станка <a name="раздел_настройка"></a>
+- [Варианты сборки станков](https://github.com/AllexAllex/thefirsttool/blob/main/settings/assembly.md)
 
 ## 3. 3D модели для печати <a name="раздел_модели"></a>
 
