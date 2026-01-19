@@ -81,5 +81,5 @@
 
 ### Существуют другие комплектации станков которые продавцы придумали на свой вкус. Например известны следующие модели которых не было в официальном каталоге, но они существуют у продавцов
 - [TZ20005MM](https://github.com/AllexAllex/thefirsttool/blob/main/info/catalog/TZ20005MM.md)  Горизонтальный фрезерный станок, металлический, 60Вт
-- [TZ20002MGL](https://github.com/AllexAllex/thefirsttool/blob/main/info/catalog/TZ20002MGL.md) Токарный станок с подачами на длинной базе 510мм, металл, 60Вт
+- [TZ20002MGL](https://github.com/AllexAllex/thefirsttool/blob/main/info/catalog/TZ20002MGL.md) TZ20002MLB Токарный станок с подачами на длинной базе 510мм, металл, 60Вт
 - [TZ10003MS](https://github.com/AllexAllex/thefirsttool/blob/main/info/catalog/TZ10003MS.md) 6-осевой обрабатывющий станок с 2мя моторными блоками, металл, 60Вт
