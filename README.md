@@ -16,6 +16,7 @@
 
 ## 4. Информация <a name="раздел_информация"></a>
 - [Чертежи частей станка](https://github.com/AllexAllex/thefirsttool/blob/main/info/drawings.md)
+- [Каталог со всеми вариантами станков](https://github.com/AllexAllex/thefirsttool/blob/main/info/catalog.md)
 
 
 ## 5. Ссылки <a name="раздел_ссылки"></a>
