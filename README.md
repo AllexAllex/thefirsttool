@@ -15,6 +15,7 @@
 - [Варианты сборки станков](https://github.com/AllexAllex/thefirsttool/blob/main/settings/assembly.md)
 
 ## 3. 3D модели для печати <a name="раздел_модели"></a>
+- [Крышка моторного блока](https://github.com/AllexAllex/thefirsttool/blob/main/3d/engine-block-cover/engine-block-cover.md)
 
 ## 4. Информация <a name="раздел_информация"></a>
 - [Чертежи частей станка](https://github.com/AllexAllex/thefirsttool/blob/main/info/drawings.md)
