@@ -18,6 +18,7 @@
 - [Крышка моторного блока](/3d/engine-block-cover/engine-block-cover.md)
 - [Защитный кожух на голову моторного блока для горизонтального фрезера](/3d/motor-protection-horizontal-milling/motor-protection-horizontal-milling.md)
 - [Держатель ручки сверлильного станка](/3d/drilling-machine-lever-holder/drilling-machine-lever-holder.md)
+- [Кондуктор для фрезеровки гаек Т5](3d/conductor-nuts-t5/conductor-nuts-t5.md)
 
 ## 4. Информация <a name="раздел_информация"></a>
 - [Чертежи частей станка](/info/drawings.md)
