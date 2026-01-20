@@ -9,21 +9,21 @@
 6. [Прочие дела станочные](#прочее)
    
 ## 1. Доработки <a name="раздел_основное"></a>
-- [Доработки каретки](https://github.com/AllexAllex/thefirsttool/blob/main/modification/modification.md)
+- [Доработки каретки](/modification/modification.md)
 
 ## 2. Настройка станка <a name="раздел_настройка"></a>
-- [Варианты сборки станков](https://github.com/AllexAllex/thefirsttool/blob/main/settings/assembly.md)
+- [Варианты сборки станков](/settings/assembly.md)
 
 ## 3. 3D модели для печати <a name="раздел_модели"></a>
-- [Крышка моторного блока](https://github.com/AllexAllex/thefirsttool/blob/main/3d/engine-block-cover/engine-block-cover.md)
-- [Защитный кожух на голову моторного блока для горизонтального фрезера](https://github.com/AllexAllex/thefirsttool/blob/main/3d/motor-protection-horizontal-milling/motor-protection-horizontal-milling.md)
+- [Крышка моторного блока](/3d/engine-block-cover/engine-block-cover.md)
+- [Защитный кожух на голову моторного блока для горизонтального фрезера](/3d/motor-protection-horizontal-milling/motor-protection-horizontal-milling.md)
 - [Держатель ручки сверлильного станка](/3d/drilling-machine-lever-holder/drilling-machine-lever-holder.md)
 
 ## 4. Информация <a name="раздел_информация"></a>
-- [Чертежи частей станка](https://github.com/AllexAllex/thefirsttool/blob/main/info/drawings.md)
-- [Каталог со всеми вариантами станков](https://github.com/AllexAllex/thefirsttool/blob/main/info/catalog.md)
-- [Каталог частей станков](https://github.com/AllexAllex/thefirsttool/blob/main/info/catalog-parts.md)
-- [Документы к станку: гарантийный талон, инструкция, сертификат](https://github.com/AllexAllex/thefirsttool/blob/main/info/passport.md)
+- [Чертежи частей станка](/info/drawings.md)
+- [Каталог со всеми вариантами станков](/info/catalog.md)
+- [Каталог частей станков](/info/catalog-parts.md)
+- [Документы к станку: гарантийный талон, инструкция, сертификат](/info/passport.md)
 
 ## 5. Ссылки <a name="раздел_ссылки"></a>
 - [Наш канал в telegram](https://t.me/MiniLatheRussia)
