@@ -17,6 +17,7 @@
 ## 3. 3D модели для печати <a name="раздел_модели"></a>
 - [Крышка моторного блока](https://github.com/AllexAllex/thefirsttool/blob/main/3d/engine-block-cover/engine-block-cover.md)
 - [Защитный кожух на голову моторного блока для горизонтального фрезера](https://github.com/AllexAllex/thefirsttool/blob/main/3d/motor-protection-horizontal-milling/motor-protection-horizontal-milling.md)
+- [Держатель ручки сверлильного станка](/3d/drilling-machine-lever-holder/drilling-machine-lever-holder.md)
 
 ## 4. Информация <a name="раздел_информация"></a>
 - [Чертежи частей станка](https://github.com/AllexAllex/thefirsttool/blob/main/info/drawings.md)
