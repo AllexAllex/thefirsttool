@@ -9,7 +9,7 @@
 6. [Прочие дела станочные](#прочее)
    
 ## 1. Доработки <a name="раздел_основное"></a>
-- [Доработки каретки](/modification/modification.md)
+- [Фрезерный стол из профиля](/modification/milling-table/milling-table.md)
 
 ## 2. Настройка станка <a name="раздел_настройка"></a>
 - [Варианты сборки станков](/settings/assembly.md)
