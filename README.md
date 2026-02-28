@@ -13,7 +13,9 @@
 
 ## 2. Настройка станка <a name="раздел_настройка"></a>
 - [Варианты сборки станков](/settings/assembly.md)
-
+- [Регулировка плавности хода подачи](/settings/feed-flow.md)
+- [Сборка и настройка фрезерного варианта станка](/settings/milling-machine.md)
+  
 ## 3. 3D модели для печати <a name="раздел_модели"></a>
 - [Крышка моторного блока](/3d/engine-block-cover/engine-block-cover.md)
 - [Защитный кожух на голову моторного блока для горизонтального фрезера](/3d/motor-protection-horizontal-milling/motor-protection-horizontal-milling.md)
