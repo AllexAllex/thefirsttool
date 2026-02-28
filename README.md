@@ -1,4 +1,4 @@
-# Информация о станках The first tool
+# Информация о станках The First Tool (thefirsttool, firsttool, tool the first)
 
 ## Оглавление:
 1. [Доработки](#раздел_доработки)
@@ -9,12 +9,15 @@
 6. [Прочие дела станочные](#прочее)
    
 ## 1. Доработки <a name="раздел_основное"></a>
-- [Фрезерный стол из профиля](/modification/milling-table/milling-table.md)
+- [Фрезерный стол из станочного профиля](/modification/milling-table/milling-table.md)
+- [Доработка тисков](modification/vise/vise.md)
+- [Перевод на трапецидальную винт-гайку Т5 кареток станка](modification/screw-t5/screw-t5.md)
 
 ## 2. Настройка станка <a name="раздел_настройка"></a>
 - [Варианты сборки станков](/settings/assembly.md)
 - [Регулировка плавности хода подачи](/settings/feed-flow.md)
 - [Сборка и настройка фрезерного варианта станка](/settings/milling-machine.md)
+- [Затяжка распорных клиньев](/settings/tightening-wedges.md)
   
 ## 3. 3D модели для печати <a name="раздел_модели"></a>
 - [Крышка моторного блока](/3d/engine-block-cover/engine-block-cover.md)
