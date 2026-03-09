@@ -9,9 +9,13 @@
 6. [Прочие дела станочные](#прочее)
    
 ## 1. Доработки <a name="раздел_основное"></a>
+- [Первая доработка - замена винтов](modification/screw-m3/screw-m3.md)
 - [Фрезерный стол из станочного профиля](/modification/milling-table/milling-table.md)
 - [Доработка тисков](modification/vise/vise.md)
 - [Перевод на трапецидальную винт-гайку Т5 кареток станка](modification/screw-t5/screw-t5.md)
+- [Вращающиеся лимбы](modification/limb/limb.md)
+- [Распиливание разжимных клинов](modification/sawing-wedge/sawing-wedge.md)
+- [Оклеивание направляющих стальной лентой](modification/steel-tape/steel-tape.md)
 
 ## 2. Настройка станка <a name="раздел_настройка"></a>
 - [Варианты сборки станков](/settings/assembly.md)
