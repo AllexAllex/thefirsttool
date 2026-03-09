@@ -23,3 +23,26 @@
 7. Ну и вставляем гайку в каретку, сверлим отверстие по месту под фиксирующий винт. В данном случае я решил попробовать винт м4 (все таки м3 на мягких материалах типа алюминия имеет слишком мелкий шаг). Сверлим отверстие диаметром 3.3мм, нарезаем резьбу м4. Делаем в самой гайке фаску под потай болта. Ну и вкручиваем болт. Шляпка болта не мешает винту подачи, все нормально, можно так делать.
 Кажется что получилось аккуратнее чем с прошлой кареткой, времени было больше. Держится такая вставка отлично, стоит в идеально ровно. Изготовление ходового винта аналогичное как для продольной подачи, что я уже показывал, тут только длина ходового винта будет меньше.
 Буду потихоньку переводить все свои малые каретки на винты т5, они показали себя с лучшей стороны.
+
+<img src="screw-t5-1.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-2.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-3.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-4.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-5.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-6.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-7.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-8.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-9.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-10.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-11.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-12.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-13.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-14.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-15.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-16.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-17.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-18.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-19.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-20.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-21.jpg" alt="drawing" width="200"/>
+<img src="screw-t5-22.jpg" alt="drawing" width="200"/>
