@@ -11,6 +11,5 @@
 <img src="steel-tape-6.jpg" alt="drawing" width="200"/>
 <img src="steel-tape-7.jpg" alt="drawing" width="200"/>
 <img src="steel-tape-8.jpg" alt="drawing" width="200"/>
-<img src="steel-tape-9.jpg" alt="drawing" width="200"/>
 <img src="steel-tape-10.jpg" alt="drawing" width="200"/>
 <img src="steel-tape-11.jpg" alt="drawing" width="200"/>
