@@ -13,9 +13,16 @@
 - [Фрезерный стол из станочного профиля](/modification/milling-table/milling-table.md)
 - [Доработка тисков](modification/vise/vise.md)
 - [Перевод на трапецидальную винт-гайку Т5 кареток станка](modification/screw-t5/screw-t5.md)
+- [Замена втулок М6 на резьбовые втулки М6-М8](https://youtu.be/2hZVbYo9hZk)
 - [Вращающиеся лимбы](modification/limb/limb.md)
 - [Распиливание разжимных клинов](modification/sawing-wedge/sawing-wedge.md)
 - [Оклеивание направляющих стальной лентой](modification/steel-tape/steel-tape.md)
+- [Латунный клин в каретку](modification/brass-wedge/brass-wedge.md)
+- [Выравнивание поверхности ласточкиного хвоста малой каретки](modification/low-feed-grinding/low-feed-grinding.md)
+- [Исправление геометрии малой (поперечной) каретки](modification/small-feed-geometry/small-feed-geometry.md)
+- [Прижимные винты клина подачи](modification/pressure-feed-screws/pressure-feed-screws.md)
+- [Защита от стружки на шпиндель](modification/chip-protection/chip-protection.md)
+- [Фрезер из двух длинных балок](modification/milling-machine-column/milling-machine-column.md)
 
 ## 2. Настройка станка <a name="раздел_настройка"></a>
 - [Варианты сборки станков](/settings/assembly.md)
