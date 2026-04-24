@@ -23,6 +23,7 @@
 - [Прижимные винты клина подачи](modification/pressure-feed-screws/pressure-feed-screws.md)
 - [Защита от стружки на шпиндель](modification/chip-protection/chip-protection.md)
 - [Фрезер из двух длинных балок](modification/milling-machine-column/milling-machine-column.md)
+- [Цанговый патрон ER20 на стандартный шпиндель](modification/er20/er20.md)
 
 ## 2. Настройка станка <a name="раздел_настройка"></a>
 - [Варианты сборки станков](/settings/assembly.md)
