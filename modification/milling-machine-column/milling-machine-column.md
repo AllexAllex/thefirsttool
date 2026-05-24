@@ -1,4 +1,4 @@
-# Фрезер из двух балок 28см (устарела)
+# Крепление фрезерной колонны 28см (устарела)
 
 ### [БОЛЕЕ ПРАВИЛЬНАЯ НОВАЯ ВЕРСИЯ ТУТ](https://github.com/AllexAllex/thefirsttool/blob/main/modification/milling-machine-column-2/milling-machine-column-2.md)
 
