@@ -39,6 +39,7 @@
 - [Кондуктор для фрезеровки гаек Т5](3d/conductor-nuts-t5/conductor-nuts-t5.md)
 
 ## 4. Информация <a name="раздел_информация"></a>
+- [Ответы на часто задаваемые вопросы](/info/faq.md)
 - [Сравнение станков The first tool с аналогами (Xendoll и тд)](/info/compare.md)
 - [Чертежи частей станка](/info/drawings.md)
 - [Каталог со всеми вариантами станков](/info/catalog.md)
