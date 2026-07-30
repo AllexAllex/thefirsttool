@@ -1,17 +1,17 @@
 ## Оригинальные документы от станка TZ20005M (металлический фрезерный станок, 60Вт)
 
 Гарантийный талон
-![гарантийный талон 1](/info/passport/1.jpg)
-![гарантийный талон 2](/info/passport/2.jpg)
-![гарантийный талон 3](/info/passport/3.jpg)
-![гарантийный талон 4](/info/passport/4.jpg)
+<img src="passport/1.jpg" alt="drawing"/>
+<img src="passport/2.jpg" alt="drawing"/>
+<img src="passport/3.jpg" alt="drawing"/>
+<img src="passport/4.jpg" alt="drawing"/>
 
 Сертификат
-![сертификат 1](/info/passport/5.jpg)
-![сертификат 2](/info/passport/6.jpg)
+<img src="passport/5.jpg" alt="drawing"/>
+<img src="passport/6.jpg" alt="drawing"/>
 
 Инструкция по сборке и эксплуатации
-![инструкция 1](/info/passport/7.jpg)
-![инструкция 2](/info/passport/8.jpg)
-![инструкция 3](/info/passport/9.jpg)
-![инструкция 4](/info/passport/10.jpg)
+<img src="passport/7.jpg" alt="drawing"/>
+<img src="passport/8.jpg" alt="drawing"/>
+<img src="passport/9.jpg" alt="drawing"/>
+<img src="passport/10.jpg" alt="drawing"/>
