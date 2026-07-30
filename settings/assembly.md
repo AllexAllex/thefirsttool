@@ -1,6 +1,9 @@
 ## Варианты сборки разных станков
 
-![Вариант 1](/settings/assembly/1.webp)
+![Вариант 1]
+
+<img src="assembly/1.webp" alt="drawing"/>
+
 ![Вариант 2](/settings/assembly/2.webp)
 ![Вариант 3](/settings/assembly/3.webp)
 ![Вариант 4](/settings/assembly/4.webp)
