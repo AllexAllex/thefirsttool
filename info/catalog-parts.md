@@ -120,6 +120,6 @@
 - UZ01401M сердцевина маятникового механизма лобзика
 
 ## Изображения некоторых деталей из каталога
-![каталог деталей 1](https://github.com/AllexAllex/thefirsttool/blob/main/info/catalog-parts/1.png)
-![каталог деталей 2](https://github.com/AllexAllex/thefirsttool/blob/main/info/catalog-parts/2.png)
+<img src="catalog-parts/1.png" alt="drawing"/>
+<img src="catalog-parts/2.png" alt="drawing"/>
 
