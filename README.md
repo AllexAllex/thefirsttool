@@ -25,6 +25,7 @@
 - [Крепление фрезерной колонны (из двух длинных балок)](modification/milling-machine-column/milling-machine-column.md)
 - [Крепление фрезерной колонны (из двух длинных балок) версия 2](modification/milling-machine-column-2/milling-machine-column-2.md)
 - [Цанговый патрон ER20 на стандартный шпиндель](modification/er20/er20.md)
+- [Проставка 25мм под моторный блок](modification/spacer-for-spindle/spacer-for-spindle.md)
 
 ## 2. Настройка станка <a name="раздел_настройка"></a>
 - [Варианты сборки станков](/settings/assembly.md)
