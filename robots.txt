@@ -8,7 +8,9 @@ Allow: /
 Disallow: /404.html
 Disallow: /search.html
 Disallow: /site/
-Disallow: /*.json$ Disallow: /*.xml$ Disallow: /*.txt$ 
+Disallow: /*.json$
+Disallow: /*.xml$
+Disallow: /*.txt$
 # Указываем местоположение sitemap (если он будет в корне проекта)
 Sitemap: https://allexallex.github.io/thefirsttool/sitemap.xml
 
