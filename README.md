@@ -17,7 +17,7 @@
 - [Вращающиеся лимбы](modification/limb/limb.md)
 - [Распиливание разжимных клинов](modification/sawing-wedge/sawing-wedge.md)
 - [Оклеивание направляющих стальной лентой](modification/steel-tape/steel-tape.md)
-- [Латунный клин в каретку](modification/brass-wedge/brass-wedge.md)
+- [Латунный клин в каретку](modification/brass-wedge/index.md)
 - [Выравнивание поверхности ласточкиного хвоста малой каретки](modification/low-feed-grinding/low-feed-grinding.md)
 - [Исправление геометрии малой (поперечной) каретки](modification/small-feed-geometry/small-feed-geometry.md)
 - [Прижимные винты клина подачи](modification/pressure-feed-screws/pressure-feed-screws.md)
