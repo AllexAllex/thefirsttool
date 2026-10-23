@@ -1,248 +1,249 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-<loc>https://allexallex.github.io/thefirsttool/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/modification/screw-m3/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/modification/milling-table/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/modification/vise/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/modification/screw-t5/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/modification/limb/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/modification/sawing-wedge/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/modification/steel-tape/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/modification/brass-wedge/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/modification/low-feed-grinding/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/modification/small-feed-geometry/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/modification/pressure-feed-screws/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/modification/chip-protection/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/modification/milling-machine-column/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/modification/milling-machine-column-2/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/modification/er20/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/modification/spacer-for-spindle/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/modification/steel-lathe-chuck/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/settings/assembly.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/settings/feed-flow.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/settings/milling-machine.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/settings/tightening-wedges.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/3d/engine-block-cover/engine-block-cover.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/3d/motor-protection-horizontal-milling/motor-protection-horizontal-milling.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/3d/drilling-machine-lever-holder/drilling-machine-lever-holder.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/3d/conductor-nuts-t5/conductor-nuts-t5.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/info/faq.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/info/compare.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/info/drawings.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/info/catalog.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/info/catalog-parts.md</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/info/passport.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/other/ich-2/ich-2.md</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/3d/Проточка-подшипников-1.stl</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/3d/Проточка-подшипников.FCStd</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/3d/Шестерня-шпинделя.stl</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/3d/Шестерня-шпинделя.FCStd</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/3d/engine-block-cover/engine-block-cover.stl</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/3d/motor-protection-horizontal-milling/motor-protection-horizontal-milling-1.stl</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/3d/motor-protection-horizontal-milling/motor-protection-horizontal-milling-2.stl</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/3d/motor-protection-horizontal-milling/motor-protection-horizontal-milling-3.stl</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/3d/drilling-machine-lever-holder/drilling-machine-lever-holder.stl</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/3d/conductor-nuts-t5/conductor-nuts-t5.stl</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/catalog-parts.md</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/info/catalog/Z20001G.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/info/catalog/Z20001.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/info/catalog/Z20002.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/info/catalog/Z20003.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://allexallex.github.io/thefirsttool/info/catalog/Z20004.html</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+	xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/modification/screw-m3/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/modification/milling-table/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/modification/vise/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/modification/screw-t5/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/modification/limb/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/modification/sawing-wedge/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/modification/steel-tape/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/modification/brass-wedge/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/modification/low-feed-grinding/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/modification/small-feed-geometry/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/modification/pressure-feed-screws/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/modification/chip-protection/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/modification/milling-machine-column/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/modification/milling-machine-column-2/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/modification/er20/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/modification/spacer-for-spindle/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/modification/steel-lathe-chuck/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/settings/assembly.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/settings/feed-flow.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/settings/milling-machine.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/settings/tightening-wedges.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/3d/engine-block-cover/engine-block-cover.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/3d/motor-protection-horizontal-milling/motor-protection-horizontal-milling.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/3d/drilling-machine-lever-holder/drilling-machine-lever-holder.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/3d/conductor-nuts-t5/conductor-nuts-t5.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/info/faq.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/info/compare.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/info/drawings.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/info/catalog.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/info/catalog-parts.md</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/info/passport.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/other/ich-2/ich-2.md</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/3d/Проточка-подшипников-1.stl</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/3d/Проточка-подшипников.FCStd</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/3d/Шестерня-шпинделя.stl</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/3d/Шестерня-шпинделя.FCStd</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/3d/engine-block-cover/engine-block-cover.stl</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/3d/motor-protection-horizontal-milling/motor-protection-horizontal-milling-1.stl</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/3d/motor-protection-horizontal-milling/motor-protection-horizontal-milling-2.stl</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/3d/motor-protection-horizontal-milling/motor-protection-horizontal-milling-3.stl</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/3d/drilling-machine-lever-holder/drilling-machine-lever-holder.stl</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/3d/conductor-nuts-t5/conductor-nuts-t5.stl</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/catalog-parts.md</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/info/catalog/Z20001G.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/info/catalog/Z20001.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/info/catalog/Z20002.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/info/catalog/Z20003.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://allexallex.github.io/thefirsttool/info/catalog/Z20004.html</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+	</url>
 </urlset>
