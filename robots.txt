@@ -4,16 +4,6 @@
 User-agent: *
 Allow: /
 
-# Разрешаем индексацию всех основных разделов
-Allow: /thefirsttool/
-Allow: /thefirsttool/index.html
-Allow: /thefirsttool/dorabotki/
-Allow: /thefirsttool/nastroyka-stanka/
-Allow: /thefirsttool/3d-modeli/
-Allow: /thefirsttool/informaciya/
-Allow: /thefirsttool/ssylki/
-Allow: /thefirsttool/prochie-dela-stanochnye/
-
 # Запрещаем индексацию служебных файлов GitHub Pages и временных файлов
 Disallow: /404.html
 Disallow: /search.html
