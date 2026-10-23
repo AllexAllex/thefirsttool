@@ -1,4 +1,4 @@
-# Информация о станках The First Tool (thefirsttool, firsttool, tool the first)
+# Информация о станках The First Tool (thefirsttool, firsttool, tool the first, Zhouyu Machine, Xendoll, Unimat, ZHRUI, TIANQI), документация, доработки, настройка
 
 ## Оглавление:
 1. [Доработки](#раздел_доработки)
