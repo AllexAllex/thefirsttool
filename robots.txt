@@ -1,0 +1,30 @@
+# robots.txt для сайта https://allexallex.github.io/thefirsttool/
+# Файл создан на основе анализа структуры сайта (дата: 2026-10-20)
+
+User-agent: *
+Allow: /
+
+# Разрешаем индексацию всех основных разделов
+Allow: /thefirsttool/
+Allow: /thefirsttool/index.html
+Allow: /thefirsttool/dorabotki/
+Allow: /thefirsttool/nastroyka-stanka/
+Allow: /thefirsttool/3d-modeli/
+Allow: /thefirsttool/informaciya/
+Allow: /thefirsttool/ssylki/
+Allow: /thefirsttool/prochie-dela-stanochnye/
+
+# Запрещаем индексацию служебных файлов GitHub Pages и временных файлов
+Disallow: /404.html
+Disallow: /search.html
+Disallow: /site/
+Disallow: /*.json$ Disallow: /*.xml$ Disallow: /*.txt$ 
+# Указываем местоположение sitemap (если он будет в корне проекта)
+Sitemap: https://allexallex.github.io/thefirsttool/sitemap.xml
+
+# Блокируем доступ для известных вредоносных ботов (опционально)
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Disallow: /

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+    <!-- Главная страница -->
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/</loc>
+        <lastmod>2026-10-20T00:00:00+03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Раздел 1: Доработки -->
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/dorabotki/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <!-- Примеры страниц из раздела "Доработки" -->
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/dorabotki/zamena-vintov/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/dorabotki/frezerny-stol/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/dorabotki/trapetsoidalny-vint/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/dorabotki/zashchita-ot-struzhki/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Раздел 2: Настройка станка -->
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/nastroyka-stanka/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <!-- Примеры страниц из раздела "Настройка" -->
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/nastroyka-stanka/varianty-sborki/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/nastroyka-stanka/regulirovka-plavnosti-hoda/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Раздел 3: 3D-модели -->
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/3d-modeli/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <!-- Примеры страниц из раздела "3D-модели" -->
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/3d-modeli/kryshka-motornogo-bloka/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/3d-modeli/zashchitnyy-kozhukh/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Раздел 4: Информация -->
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/informaciya/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <!-- Примеры страниц из раздела "Информация" -->
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/informaciya/faq/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/informaciya/sravnenie-s-analogami/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/informaciya/chertezhi/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/informaciya/dokumenty/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Раздел 5: Ссылки (внешние ресурсы) -->
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/ssylki/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Раздел 6: Прочие дела станочные -->
+    <url>
+        <loc>https://allexallex.github.io/thefirsttool/prochie-dela-stanochnye/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+</urlset>
