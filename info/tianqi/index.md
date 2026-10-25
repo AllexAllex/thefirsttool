@@ -5,3 +5,15 @@
 Комплектация привычная для такого набора: балка длинная, балка короткая, длинная подача (продольная), пару поперечных подач, 1 моторный блок, патрон токарный, задняя бабка, комплект цанг и гайка для фрезера, упор для резца по дереву и сам резец, шлифовальный диск, эксцентриковый механизм лобзика, тиски, проставки для повышения центра, блок питания, усилительные пластины и уголки, крепеж и мелочевка.
 
 Фото самого комплекта в коробке и инструкцию прикладываю ниже:
+<img src="tianqi-1.jpg" alt="drawing"/>
+<img src="tianqi-2.jpg" alt="drawing"/>
+<img src="tianqi-3.jpg" alt="drawing"/>
+<img src="tianqi-4.jpg" alt="drawing"/>
+<img src="tianqi-5.jpg" alt="drawing"/>
+<img src="tianqi-6.jpg" alt="drawing"/>
+<img src="tianqi-7.jpg" alt="drawing"/>
+<img src="tianqi-8.jpg" alt="drawing"/>
+<img src="tianqi-9.jpg" alt="drawing"/>
+<img src="tianqi-10.jpg" alt="drawing"/>
+<img src="tianqi-11.jpg" alt="drawing"/>
+<img src="tianqi-12.jpg" alt="drawing"/>
