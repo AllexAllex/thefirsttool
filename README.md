@@ -47,6 +47,7 @@
 - [Каталог со всеми вариантами станков](/info/catalog.md)
 - [Каталог частей станков](/info/catalog-parts.md)
 - [Документы к станку: гарантийный талон, инструкция, сертификат](/info/passport.md)
+- [Редкий конструктор модульный станков TIANQI](/info/tianqi/index.md)
 
 ## 5. Ссылки <a name="раздел_ссылки"></a>
 - [Наш канал в telegram](https://t.me/MiniLatheRussia)
