@@ -45,7 +45,7 @@
 - [Сравнение станков The first tool с аналогами (Xendoll и тд)](/info/compare.md)
 - [Чертежи частей станка](/info/drawings/index.md)
 - [Каталог со всеми вариантами станков](/info/catalog/index.md)
-- [Каталог частей станков](/info/catalog-part/index.md)
+- [Каталог частей станков](/info/catalog-parts/index.md)
 - [Документы к станку: гарантийный талон, инструкция, сертификат](/info/passport/index.md)
 - [Редкий конструктор модульный станков TIANQI](/info/tianqi/index.md)
 
