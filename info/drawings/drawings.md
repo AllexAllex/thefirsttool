@@ -3,16 +3,16 @@
 Скопировано что бы избежать утраты чертежей
 
 Пример соединения двух продольных кареток, чертежи ручки
-<img src="drawings/1.png" alt="drawing"/>
+<img src="1.png" alt="drawing"/>
 
 Основные профили станка, разрезы кареток, корпус моторного блока
-<img src="drawings/7.png" alt="drawing"/>
+<img src="7.png" alt="drawing"/>
 
 Альтернативные резцедержатели которые можно купить
-<img src="drawings/8.png" alt="drawing"/>
+<img src="8.png" alt="drawing"/>
 
 Варианты альтернативных тисков и разметка под сверловку отверстий
-<img src="drawings/9.png" alt="drawing"/>
+<img src="9.png" alt="drawing"/>
 
 Валы шпинделя
-<img src="drawings/10.png" alt="drawing"/>
+<img src="10.png" alt="drawing"/>
