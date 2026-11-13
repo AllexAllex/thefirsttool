@@ -27,6 +27,7 @@
 - [Цанговый патрон ER20 на стандартный шпиндель](modification/er20/index.md)
 - [Проставка 25мм под моторный блок](modification/spacer-for-spindle/index.md)
 - [Внедрение стального патрона и шпинделя с резьбой М14х1](modification/steel-lathe-chuck/index.md)
+- [Гофрозащита продольной направляющей](modification/feed-protection/index.md)
 
 ## 2. Настройка станка <a name="раздел_настройка"></a>
 - [Варианты сборки станков](/settings/assembly.md)
